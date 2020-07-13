@@ -1,4 +1,4 @@
-# Index, Show, New, Create Lab
+# RESTful Rails Actions: Index, Show, New, Create Lab
 
 ## Objectives
 
@@ -9,7 +9,6 @@
 5. Link pages using route helpers
 6. Use route helpers in a `redirect_to`
 7. Build a new form with a `form_tag`
-
 
 ## Instructions
 
