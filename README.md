@@ -32,7 +32,7 @@ The application you will be building is a Coupon app. Below is a high-level over
 
 * You will need to create a `coupons` table with `coupon_code` and `store` columns, which should both be of the `string` data type.
 
-* Your `index` page should show all of the coupons in the database using the following format: `<a href=#>coupon code></a> | <store name>`.
+* Your `index` page should show all of the coupons in the database using the following format: <a href=#>coupon code></a> | <store name>.
 
 * The coupon codes on the `index` page should link to their corresponding coupon `show` page. You should use the `link_to` method and route helper methods instead of hard-coding an HTML `<a>` tag.
 
