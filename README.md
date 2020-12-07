@@ -34,7 +34,7 @@ The application you will be building is a Coupon app. Below is a high-level over
 
 * Your `index` page should show all of the coupons in the database using the following format: 
 
-  <a href=#>coupon code</a> | store name.
+  <a href=#>coupon_code</a> | store_name
 
 * The coupon codes on the `index` page should link to their corresponding coupon `show` page. You should use the `link_to` method and route helper methods instead of hard-coding an HTML `<a>` tag.
 
